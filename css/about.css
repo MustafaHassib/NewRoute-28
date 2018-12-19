@@ -1,0 +1,9 @@
+.about-us{
+  margin-top: 10%;
+  width: 100%;
+  text-align: center;
+  height: 330px;;
+}
+.about-inner>p{
+  text-align: right !important;
+}
